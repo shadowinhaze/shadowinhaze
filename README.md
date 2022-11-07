@@ -5,7 +5,7 @@
 ---
 
 <div style="display: flex;">
-<em style="width: 50%;">I am a newbie Front-End Developer. So I advise you to invite me to your team as soon as possible, before I become a cool software architect for a quadrillion bucks. (joke) </em>
+<em style="width: 50%;">I am a Front-End Developer. So I advise you to invite me to your team as soon as possible, before I become a cool software architect for a quadrillion bucks. (joke) </em>
 </div>
 <br>
 
